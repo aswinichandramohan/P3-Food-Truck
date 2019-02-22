@@ -37,7 +37,7 @@ $items[] = $myItem;
 
 #initializing variables used
 $Total = 0; // total
-$subtotal = 10; //subtotal
+$subtotal = 0; //subtotal
 $TaxRate = 0.09; // tax rate
 
 
