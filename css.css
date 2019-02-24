@@ -1,0 +1,22 @@
+.content {
+    text-align: center;
+    background-color: rgb(216, 160, 160)
+}
+
+h1.foodtruck {
+    color: brown;
+}
+
+.hover{
+    cursor: -webkit-grab; 
+    cursor: grab;
+}
+
+img{
+    width: 150;
+    height: 150;
+}
+
+.total{
+    color: red;
+} 
